@@ -1,2 +1,2 @@
-# helpdesk
-Helpdesk for schools developed with vanilla forums
+# FrontDesk
+Front Desk for schools developed with vanilla forums
